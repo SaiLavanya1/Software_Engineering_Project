@@ -1,0 +1,1 @@
+We Developed a system where People sometimes hesitate to interact with a stranger and ask their queries in a new environment.This web application provides a solution to the problem. So, this proposed interactive and intelligent connection app fosters the students to explore a lot and socialize with the fellow students and company recruiters regarding the jobs.
